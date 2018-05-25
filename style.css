@@ -1,13 +1,23 @@
+
+#body{
+    background-image: url(https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:);
+}
+
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+    background-image: url('https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:');
+	
 }
 
 #header
 {
 	background: #ccc;
 	padding: 20px;
+    font-size: 40px;
+    background-color: black;
+    color : white;
+   background-image: url('https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:');
 }
 
 #header h1 { margin: 0; }
@@ -54,10 +64,12 @@
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: linear-gradient(left, #d6e1ff, #dbffe4);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    
+    
 }
 
 #edito h2
