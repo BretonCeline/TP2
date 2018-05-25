@@ -1,26 +1,42 @@
+<<<<<<< HEAD
 
 #body{
     background-image: url(https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:);
+=======
+body{
+width:100%;
+background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+>>>>>>> a370bfcaf7e1d367d2e5dc19974a9aca68cd625c
 }
 
 #container
 {
+<<<<<<< HEAD
 	margin: 0 30px;
     background-image: url('https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:');
 	
+=======
+	background-image: url('http://mrwgifs.com/wp-content/uploads/2014/11/HQ-Carlton-Dance-With-a-Transparent-Background-Gif-From-The-Fresh-Prince-Of-Bel-Air.gif');
+	background-size: cover;
+>>>>>>> a370bfcaf7e1d367d2e5dc19974a9aca68cd625c
 }
-
-#header
+#h1,h2,h3,h4,h5,h6,p{
+font-family: 'Roboto', sans-serif;}
+#header 
 {
+<<<<<<< HEAD
 	background: #ccc;
 	padding: 20px;
     font-size: 40px;
     background-color: black;
     color : white;
    background-image: url('https://www.google.com/search?biw=1440&bih=849&tbm=isch&sa=1&ei=baz-WtTSAorjUa7SrvgN&q=dinosaure+foret&oq=dinosaure+foret&gs_l=img.3..0i24k1.743.1631.0.1721.6.5.0.1.1.0.97.418.5.5.0....0...1c.1.64.img..0.6.420...0j0i67k1j0i8i30k1.0.mspFXOqxn_I#imgdii=mx9uIUVkuS8IdM:&imgrc=jpqY_Sobd_dKiM:');
+=======
+	text-align:center;
+>>>>>>> a370bfcaf7e1d367d2e5dc19974a9aca68cd625c
 }
 
-#header h1 { margin: 0; }
+
 
 #navigation
 {
@@ -58,9 +74,6 @@
 	clear: left;
 	padding: 20px;
 	margin: 20px;
-	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
@@ -85,9 +98,7 @@
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
-	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
+	
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
